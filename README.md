@@ -9,4 +9,4 @@
 7. sumOfScore method should summing up the values of score array.
 8. A class LR is also provided with this project. The LR class has a getSlope method to provide the slope fromo the given data. The data must be input to the getSlope method as a two-dimensional array (dataFrame). The first dimension will be the predictor values 1, 2, 3, 4, 5, 6 and the corresponding response values will be performance values. The getSlope method is a static method, so you won't need to create objects of the LR class to obtain slope. Just use the name of the class LR. For example: LR.getSlope(dataFrame) would return a slope as a double value.
 9. dataPrep method generates a data-frame AKA two-dimensional array to be passed to the getSlope method.
-10. getInterpretation method returns a string based on the analysis of slope obtained from analysis of past six
+10. getInterpretation method returns a string based on the analysis of slope obtained from analysis of past six performances.
